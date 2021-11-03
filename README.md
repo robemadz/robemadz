@@ -1,14 +1,29 @@
-### Hi there 👋
+## Hi! [Robemadz][notion] here:
 
-**robemadz/robemadz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<iframe src="https://giphy.com/embed/FPbnShq1h1IS5FQyPD" width="100%" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Here are some ideas to get you started:
+### 💻 Desarrollador frontend / ✏️ Diseño UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Always in progress.
+⚡ Looking for 1st job in tech.
+
+---
+
+### 🚀 Coding skills
+
+<br/>
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br/>
+
+---
+
+<!--LINKS AQUÍ-->
+
+[notion]: https://www.notion.so/ROBERTO-GONZ-LEZ-MICHELENA-f3ad660040674b28a8b6c6d54fabd8ce
