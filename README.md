@@ -1,6 +1,6 @@
 ## Hi! [Robemadz][notion] here:
 
-<iframe src="https://giphy.com/embed/FPbnShq1h1IS5FQyPD" width="100%" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://www.teahub.io/photos/full/88-881812_software-developer-wallpaper.jpg">
 
 ### 💻 Desarrollador frontend / ✏️ Diseño UI
 
