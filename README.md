@@ -1,6 +1,6 @@
 ## Hi! [Robemadz][notion] here:
 
-<img src="https://i.gifer.com/xK.gif" height="250px" width="100%" />
+<img src="http://phpography.com/images/8-bit-wallpaper-8.jpg" height="300px" width="100%" />
 
 ### 💻 Desarrollador frontend / ✏️ Diseño UI
 
